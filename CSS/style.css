@@ -645,7 +645,9 @@ p {
 
 address {
   font-style: inherit;
+  margin-top: 20px;
 }
+
 .address-item {
   margin-bottom: 9px;
   display: inline-block;
